@@ -1,4 +1,8 @@
 # Design-Patterns
 Auxiliary code to my PyCon Sweden 2017 talk "Design Patterns in Python"
 
-Slides of the talk can be found in [Slides.pdf](https://github.com/PJUllrich/Design-Patterns/blob/master/Slides.pdf)
+[Recording on YouTube](https://www.youtube.com/watch?v=bsyjSW46TDg&t=1s)
+
+[Slides](https://github.com/PJUllrich/Design-Patterns/blob/master/Slides.pdf)
+
+[Peter's Personal Website](https://www.peterullrich.com)
